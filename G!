@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gianluca De Goyzueta - Professional Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Gianluca De Goyzueta</h1>
+        <p>Motivated and globally minded professional pursuing a Bachelor of Management degree at ESCP Business School.</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a motivated and globally minded professional, pursuing a Bachelor of Management degree at ESCP Business School, where I study in Turin, Paris, and London. I have a diverse educational background, having completed my high school education in classical studies in Rome and in Canada as part of an Erasmus exchange. I am proficient in Italian, English, and French.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience</h2>
+
+        <div class="job">
+            <h3>Account Manager Intern</h3>
+            <p><strong>Click&Boat, Barcelona, Spain</strong></p>
+            <p>May 2024 - Present (4 months)</p>
+            <p>Responsible for welcoming new Italian owners to the platform, guiding them through our service, and managing their accounts and bookings. Work as part of an international team.</p>
+        </div>
+
+        <div class="job">
+            <h3>Student EY Ambassador</h3>
+            <p><strong>EY</strong></p>
+            <p>Nov 2023 - Present (10 months)</p>
+            <p>Promoted EY initiatives among students, contributed to finance workshops, and engaged in personal branding and marketing programs under the guidance of a personal mentor.</p>
+        </div>
+
+        <div class="job">
+            <h3>Student Ambassador</h3>
+            <p><strong>ESCP Business School, Turin, Italy</strong></p>
+            <p>Oct 2023 - Present (11 months)</p>
+            <p>Promoted events, increased student attendance, assisted recruiters during university fairs, and guided students in their career paths.</p>
+        </div>
+
+        <div class="job">
+            <h3>Operations Manager</h3>
+            <p><strong>Chilliwack Community Services, Canada</strong></p>
+            <p>Oct 2021 - Jun 2022 (9 months)</p>
+            <p>Welcomed international customers, optimized stadium organization, and managed a team to deliver exceptional customer experiences.</p>
+        </div>
+
+        <div class="job">
+            <h3>Fundraising Assistant</h3>
+            <p><strong>Save the Children International</strong></p>
+            <p>Sep 2023 - Present (1 year)</p>
+            <p>Assisted in fundraising initiatives to support children globally.</p>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="education-item">
+            <h3>Bachelor in Management (BSc)</h3>
+            <p><strong>ESCP Business School</strong></p>
+            <p>2023 - 2026</p>
+            <p>Business and management with a multicultural study track (Turin, Paris, London). Relevant courses include Statistics, Business Strategy, and Microeconomics.</p>
+        </div>
+
+        <div class="education-item">
+            <h3>High School Diploma, Classical and Ancient Studies</h3>
+            <p><strong>Liceo Gaetano De Sanctis</strong></p>
+            <p>Sep 2018 - Jul 2023</p>
+            <p>Diploma focused on classical studies, especially Latin and Greek, with significant attention to philosophy and history, enhancing both cultural panorama and analytical skills.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Italian: Native or bilingual proficiency</li>
+            <li>English: Full professional proficiency</li>
+            <li>French: Professional working proficiency</li>
+        </ul>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>DELF B2, Institut français, Issued Jun 2022</li>
+            <li>C1 English Certificate, Cambridge University Press & Assessment English, Issued May 2023</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Involvement & Projects</h2>
+        <div class="project-item">
+            <h3>Research & Development Member</h3>
+            <p><strong>ESCP Blockchain and Crypto Society</strong></p>
+            <p>Oct 2023 - Present</p>
+            <p>Deepen knowledge in the Web3 ecosystem and generate profits through NFT investments.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact: gianluca.de_goyzueta@edu.escp.eu | LinkedIn: <a href="https://www.linkedin.com/in/gianluca-de-goyzueta/">Gianluca De Goyzueta</a></p>
+        <p>Phone: +39 3313590603</p>
+    </footer>
+</body>
+</html>
